@@ -1,0 +1,10 @@
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.exe
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.deps.json
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.runtimeconfig.json
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.runtimeconfig.dev.json
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.dll
+D:\Projects\JoinRootInc_consoleApp\bin\Debug\netcoreapp3.1\JoinRootInc_consoleApp.pdb
+D:\Projects\JoinRootInc_consoleApp\obj\Debug\netcoreapp3.1\JoinRootInc_consoleApp.AssemblyInfoInputs.cache
+D:\Projects\JoinRootInc_consoleApp\obj\Debug\netcoreapp3.1\JoinRootInc_consoleApp.AssemblyInfo.cs
+D:\Projects\JoinRootInc_consoleApp\obj\Debug\netcoreapp3.1\JoinRootInc_consoleApp.dll
+D:\Projects\JoinRootInc_consoleApp\obj\Debug\netcoreapp3.1\JoinRootInc_consoleApp.pdb

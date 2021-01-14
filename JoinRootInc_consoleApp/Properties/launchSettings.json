@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JoinRootInc_consoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}
