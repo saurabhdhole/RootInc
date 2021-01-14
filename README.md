@@ -17,4 +17,4 @@ open command prompt and traverse to .exe folder
 Then run below command,
 JoinRootInc_consoleApp.exe input.txt
 
-# For Sample output, please refer ootput.png
+# For Sample output, please refer output.png
