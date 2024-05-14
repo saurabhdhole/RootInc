@@ -1,6 +1,6 @@
 # RootInc
  
-I have created the stucture where,
+I have created the structure where,
 1. registered the driver and if driver is already register will discard
 2. Will register the trip if driver is already register
 	checks
